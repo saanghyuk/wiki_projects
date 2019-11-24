@@ -13,7 +13,7 @@ TItle : <u>**Is the quantity/quality of Wekipedia document of each university co
   > - Subject of study is the top 500 universities selected by QS.
   > - There are many of rankings from various institutions. However, we select QS as our data because, according to Alexa data, QS is the world's most-viewed global university rankings.
 
-- In this project, the total number of Header, Sub-Header, Image, and words in the documet will be collected by Web Crawler(Made of Python BeautifulSoup4, Selenium). 
+- In this project, the total number of Header, Sub-Header, Image, and words in the documet of each university will be collected by Web Crawler(Made of Python BeautifulSoup4, Selenium). 
 
 - In this project, a regression analysis(Simple Linear Regression, Multiple Linear Regression, Polynomial Regression) between QS ranking/Score Data and colleted data from WikiPedia will be carried out(If enough data is available, diverse Deep Learning algorighms will also be applied). 
 
