@@ -1,5 +1,7 @@
 # WikiPedia Analysis Projects
 
+TEST
+
 TItle : <u>***Is there a correlation between the university score and the attributes of the university's Wikipedia page?***</u>
 
 *This project is carried out for the Marketing Research Class(fall semester of 2019) by Prof. Shali Wu(School Of Management, Kyung Hee University, Seoul, Korea).* 
